@@ -1,13 +1,3 @@
-//==============================================
-// Name:           Arjun Devakumar	
-// Student Number: 159076199
-// Email:          adevakumar1@myseneca.ca
-// Section:        NQQ
-// Date:           March 28, 2020
-//==============================================
-// Assignment:     2
-// Milestone:      4
-//==============================================
 
 #define _CRT_SECURE_NO_WARNINGS
 
